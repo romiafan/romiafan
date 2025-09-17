@@ -17,7 +17,7 @@ Here are a few of the projects I've been working on:
 | ------------------------------------------------------------ | --------------------------------------------------------------- | -------------------------- |
 | **[gemini-flash-api](https://github.com/romiafan/gemini-flash-api)** | An API integration for developers using the Gemini Flash model.   | `Node.js`, `Gemini API`    |
 | **[gemini-chatbot-api](https://github.com/romiafan/gemini-chatbot-api)** | A backend API for a generative chatbot powered by Gemini.         | `Node.js`, `Gemini API`    |
-| **[project-shield](https://github.com/romiafan/project-shield)** | A secure and simple password manager application.               | `Dart`, `Flutter` (assumed) |
+| **[project-shield](https://github.com/romiafan/project-shield)** | A secure and simple password manager application.               | `Dart`, `Flutter` |
 | **[kanban-style-pms](https://github.com/romiafan/kanban-style-pms)** | A lightweight project management system with a Kanban board UI.   | `JavaScript`, `HTML/CSS`   |
 | **[dapoer-nimar](https://github.com/romiafan/dapoer-nimar)** | e-Commerce for UMKM Donut Shop.           | `Dart`, `Flutter`, `Firebase` |
 
