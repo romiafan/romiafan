@@ -1,6 +1,6 @@
 ### Hi there, I'm Romiafan 👋
 
-I'm a software developer passionate about building intelligent tools and powerful APIs. My current focus is on integrating Generative AI into practical applications and creating software that solves real-world problems.
+I'm a software developer passionate about building intelligent tools and powerful APIs. My current focus is on integrating Generative AI into practical applications and creating software that solve[...]
 
 - 🔭 I’m currently building with the **Google Gemini API** to create smart and efficient developer tools.
 - 🌱 I’m currently learning more about **Large Language Models (LLMs)** and building scalable backend systems.
@@ -50,6 +50,14 @@ These are some of the technologies and tools I enjoy working with:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="googlecloud" width="40" height="40"/>
   </a>
 </p>
+
+---
+
+### 📈 My GitHub Stats
+
+<img alt="My Stats" src="https://github-readme-stats.vercel.app/api?username=romiafan" />
+
+<img alt="My Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romiafan" />
 
 ---
 
